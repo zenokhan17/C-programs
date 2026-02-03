@@ -1,4 +1,4 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
 	
@@ -53,6 +53,7 @@ int main()
 		if(dbl_ptr[i][j] == 1){
 			dbl_ptr[i][j]--;
 			cout<<"Hit. Enemy destroyed\n";
+			// enemey destroyed
 			enemy_count--;
 		}
 		else{
