@@ -1,4 +1,5 @@
 #include <iostream>
+
 using namespace std;
 
 	
@@ -8,7 +9,6 @@ int main()
 	//  1 0 1
 	//	1 1 0
 	//  0 1 1 
-	
 	
     int rows = 3, col = 3;
     
